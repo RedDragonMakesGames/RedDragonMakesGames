@@ -1,4 +1,4 @@
-Hi, I’m @RedDragonMakesGames, an aspiring game developer. I'm using Github as source control for projets I'm making to build a portfolio. Feel free to contact me!
+Hi, I’m @RedDragonMakesGames, a game programmer and developer. My Github is primarily source control for projets I worked on to build a game programming portfolio in 2022/23, although there might be some new projects coming soon. Feel free to contact me!
 
 <!---
 RedDragonMakesGames/RedDragonMakesGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
